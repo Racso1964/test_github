@@ -1,0 +1,4 @@
+Documento de prueba para ser subido a mi cuenta GitHub : "https://github.com/Racso1964/test_github.git".
+
+A su vez este documento tipo texto quedará alojado dentro de la carpeta "ejercicios" que se encuentra dentro 
+de mi direccion Git, en la nuve.
