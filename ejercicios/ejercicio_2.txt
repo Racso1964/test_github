@@ -2,3 +2,5 @@ Documento de prueba para ser subido a mi cuenta GitHub : "https://github.com/Rac
 
 A su vez este documento tipo texto quedará alojado dentro de la carpeta "ejercicios" que se encuentra dentro 
 de mi direccion Git, en la nuve.
+
+De igual manara estara sujeto a modificaciones
